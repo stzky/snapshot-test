@@ -41,9 +41,9 @@ function App() {
       start: 1640372917,
       end: 1640977717,
       snapshot: 9871595,
-      network: '4',
+      network: '1',
       strategies:
-        '[{"name":"genart","params":{"symbol":"GENART","decimals":18,"tokenAddress":"0xCCDcFced87f8d91028B4FbbB589fb4CDC24d08Fa","membershipAddress":"0xbAdc470F2E159f01396a546FC63D8c0Db2697f3b"}}]',
+        '[{"name":"genart","params":{"symbol":"GENART","decimals":18,"tokenAddress":"0x12E56851Ec22874520Dc4c7fa0A8a8d7DBa1BaC8","membershipAddress":"0x1Ca39c7F0F65B4Da24b094A9afac7aCf626B7f38"}}]',
       plugins: '{}',
       metadata: '{}',
       timestamp: 1640369317,
